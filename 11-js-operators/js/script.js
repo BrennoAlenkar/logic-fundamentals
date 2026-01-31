@@ -1,14 +1,14 @@
-  /**
-       * OPERADORES ARITMÉTICOS
-       * +  Adição / Concatenação
-       * -  Subtração
-       * *  Multiplicação
-       * /  Divisão
-       * %  Resto da divisão (módulo)
-       * ** Exponenciação
-       * ++ Incremento
-       * -- Decremento
-       */
+/**
+     * OPERADORES ARITMÉTICOS
+     * +  Adição / Concatenação
+     * -  Subtração
+     * *  Multiplicação
+     * /  Divisão
+     * %  Resto da divisão (módulo)
+     * ** Exponenciação
+     * ++ Incremento
+     * -- Decremento
+     */
 
 console.log("OPERADOR + (ADIÇÃO)");
 

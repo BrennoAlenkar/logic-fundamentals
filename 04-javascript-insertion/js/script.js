@@ -1,1 +1,1 @@
-console("JavaScript no head, com atributo defer");
+console.log("JavaScript no head, com atributo defer");
